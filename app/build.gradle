@@ -4,11 +4,11 @@ plugins {
 
 android {
     compileSdkVersion 36
-    namespace "com.il2cpp.dumper"
+    namespace = "com.il2cpp.dumper"
 
     defaultConfig {
         applicationId "com.il2cpp.dumper"
-        minSdkVersion 16
+        minSdkVersion 21
         targetSdkVersion 36
         versionCode 1
         versionName "3.2"
